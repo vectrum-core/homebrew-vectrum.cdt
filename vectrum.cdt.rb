@@ -1,6 +1,6 @@
 class VectrumCdt < Formula
 
-   homepage "https://github.com/vectrum-cpre/vectrum.cdt"
+   homepage "https://github.com/vectrum-core/vectrum.cdt"
    revision 0
    url "https://github.com/vectrum-core/vectrum.cdt/archive/v0.1.0.tar.gz"
    version "0.1.0"
