@@ -22,7 +22,7 @@ class VectrumCdt < Formula
   
    bottle do
       root_url "https://github.com/vectrum-core/vectrum.cdt/releases/download/v0.1.0"
-      sha256 "7e87fc504ed7ab305d54e5ec4992f43e445cff878faf33a60692a12485ed0ece" => :catalina
+      sha256 "fbb2d79791e3bb0f704e87c78ebae6cd4cefc13f90a3bdfb1891eab43ca356b5" => :catalina
    end
    def install
       raise "Error, only supporting binary packages at this time"
